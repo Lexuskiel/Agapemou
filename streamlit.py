@@ -1,8 +1,8 @@
 import streamlit
 import pandas
 
-streamlit.title('Im sorry Baby 🥺')
+streamlit.title('Hi, Bali!')
 
-streamlit.header('Can we talk?')
-streamlit.header('Call me when you are ready.')
+streamlit.header('Will you marry me?')
+streamlit.header('Yes or Yes')
 streamlit.header('I love you 😘')
